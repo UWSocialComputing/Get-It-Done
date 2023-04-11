@@ -1,4 +1,4 @@
-# chrome
+# Get It Done
 Welcome to your CSE 481p repo! 
 
 First, if you have an updated group name, please feel free to change the name of this repo and your group’s Google Drive folder.
