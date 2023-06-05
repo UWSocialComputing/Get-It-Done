@@ -11,5 +11,5 @@ If you want to change the site's Jekyll template and/or add custom CSS, please r
 
 You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
 
-*[G1 - User Research](./g1.md)
-*[G4 - Code and Design Specification](./g4/g4.md)
+- [G1 - User Research](./g1.md)
+- [G4 - Code and Design Specification](./g4/g4.md)
