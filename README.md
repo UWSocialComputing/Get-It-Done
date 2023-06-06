@@ -13,5 +13,6 @@ From left to right: Wendi Ma, Kristy Nhan, Tyler Nguyen, Nancy Huang
 - [G1 - User Research](./g1.md)
 - [G3 - Low-Fidelity Prototype](./g3/g3.md)
 - [G4 - Code and Design Specification](./g4/g4.md)
+- [G6 - User Testing](./g6/g6.md)
 - [G7 - Digital Prototype](./g7/g7.md)
 - [G8 - Video Demo](./g8/g8.md)
