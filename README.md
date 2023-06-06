@@ -1,4 +1,3 @@
-# Get It Done
 ![image](https://github.com/UWSocialComputing/Get-It-Done/assets/68497574/0fb6a67d-6000-4b08-858b-88885d9996de)
 
 Welcome to Get It Done, made by team Get It Done! We've created a Discord bot to help students work more efficiently in group projects.
