@@ -1,6 +1,11 @@
 ![image](https://github.com/UWSocialComputing/Get-It-Done/assets/68497574/0fb6a67d-6000-4b08-858b-88885d9996de)
 
 Welcome to the Get It Done Bot, made by team Get It Done! We've created a Discord bot to help students work more efficiently in group projects.
+The key features of the bot are:
+1. Importing assignments directly from Canvas
+2. Assigning individual to-dos (tasks) to group members
+3. Automatic and anonymous reminders for upcoming assignments and to-dos
+
 Check out our video demo here:
 
 [![Alt text](https://img.youtube.com/vi/Ixxo1UJLdlE/0.jpg)](https://www.youtube.com/watch?v=Ixxo1UJLdlE)
@@ -15,8 +20,10 @@ From left to right: Wendi Ma, Kristy Nhan, Tyler Nguyen, Nancy Huang
 
 ## Blog Posts
 - [G1 - User Research](./g1.md)
+- [G2 - Pitch Presentation](https://docs.google.com/presentation/d/1EjraKznIX3MaBRa6v-FLo3C5x9zdqtEjYhIpupAU7WQ/edit?usp=sharing)
 - [G3 - Low-Fidelity Prototype](./g3/g3.md)
 - [G4 - Code and Design Specification](./g4/g4.md)
+- [G5 - Midterm Presentation](https://docs.google.com/presentation/d/1jYgcMCaaW6vPKecQXR8iyNOo2tuiIA4-AxJgOxxjP78/edit?usp=sharing)
 - [G6 - User Testing](./g6/g6.md)
 - [G7 - Digital Prototype](./g7/g7.md)
 - [G8 - Video Demo](./g8/g8.md)
